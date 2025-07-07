@@ -1,0 +1,6 @@
+@DCS.Server_HostAddress = http://localhost:5164
+
+GET {{DCS.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

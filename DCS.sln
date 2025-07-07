@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dcs.client", "dcs.client\dcs.client.esproj", "{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCS.Server", "DCS.Server\DCS.Server.csproj", "{18839EB0-E385-4AED-AEAD-5623C4FAF9D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF460FA7-AA45-DA4D-7CED-44BA43A40DB8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{18839EB0-E385-4AED-AEAD-5623C4FAF9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18839EB0-E385-4AED-AEAD-5623C4FAF9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18839EB0-E385-4AED-AEAD-5623C4FAF9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18839EB0-E385-4AED-AEAD-5623C4FAF9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A47E5C7-FBB1-4545-811C-8B498795CFF5}
+	EndGlobalSection
+EndGlobal
